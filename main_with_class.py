@@ -67,3 +67,4 @@ if __name__ == '__main__':
     while True:
         request = input("What would you like to know? You may enter: location, passover or people: ")
         t = ISSClient(request)
+
